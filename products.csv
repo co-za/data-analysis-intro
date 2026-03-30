@@ -1,0 +1,362 @@
+product_id,category,model,storage,color,variant_detail,price_usd
+SKU-1000,iPhone,iPhone 17,128GB,Black,Standard,999
+SKU-1001,iPhone,iPhone 17,128GB,Black,eSIM-only,999
+SKU-1002,iPhone,iPhone 17,128GB,Silver,Standard,999
+SKU-1003,iPhone,iPhone 17,128GB,Silver,eSIM-only,999
+SKU-1004,iPhone,iPhone 17,128GB,Blue,Standard,999
+SKU-1005,iPhone,iPhone 17,128GB,Blue,eSIM-only,999
+SKU-1006,iPhone,iPhone 17,128GB,Titanium,Standard,999
+SKU-1007,iPhone,iPhone 17,128GB,Titanium,eSIM-only,999
+SKU-1008,iPhone,iPhone 17,128GB,Red,Standard,999
+SKU-1009,iPhone,iPhone 17,128GB,Red,eSIM-only,999
+SKU-1010,iPhone,iPhone 17,256GB,Black,Standard,1099
+SKU-1011,iPhone,iPhone 17,256GB,Black,eSIM-only,1099
+SKU-1012,iPhone,iPhone 17,256GB,Silver,Standard,1099
+SKU-1013,iPhone,iPhone 17,256GB,Silver,eSIM-only,1099
+SKU-1014,iPhone,iPhone 17,256GB,Blue,Standard,1099
+SKU-1015,iPhone,iPhone 17,256GB,Blue,eSIM-only,1099
+SKU-1016,iPhone,iPhone 17,256GB,Titanium,Standard,1099
+SKU-1017,iPhone,iPhone 17,256GB,Titanium,eSIM-only,1099
+SKU-1018,iPhone,iPhone 17,256GB,Red,Standard,1099
+SKU-1019,iPhone,iPhone 17,256GB,Red,eSIM-only,1099
+SKU-1020,iPhone,iPhone 17,512GB,Black,Standard,1199
+SKU-1021,iPhone,iPhone 17,512GB,Black,eSIM-only,1199
+SKU-1022,iPhone,iPhone 17,512GB,Silver,Standard,1199
+SKU-1023,iPhone,iPhone 17,512GB,Silver,eSIM-only,1199
+SKU-1024,iPhone,iPhone 17,512GB,Blue,Standard,1199
+SKU-1025,iPhone,iPhone 17,512GB,Blue,eSIM-only,1199
+SKU-1026,iPhone,iPhone 17,512GB,Titanium,Standard,1199
+SKU-1027,iPhone,iPhone 17,512GB,Titanium,eSIM-only,1199
+SKU-1028,iPhone,iPhone 17,512GB,Red,Standard,1199
+SKU-1029,iPhone,iPhone 17,512GB,Red,eSIM-only,1199
+SKU-1030,iPhone,iPhone 17 Pro,256GB,Black,Standard,1299
+SKU-1031,iPhone,iPhone 17 Pro,256GB,Black,eSIM-only,1299
+SKU-1032,iPhone,iPhone 17 Pro,256GB,Silver,Standard,1299
+SKU-1033,iPhone,iPhone 17 Pro,256GB,Silver,eSIM-only,1299
+SKU-1034,iPhone,iPhone 17 Pro,256GB,Blue,Standard,1299
+SKU-1035,iPhone,iPhone 17 Pro,256GB,Blue,eSIM-only,1299
+SKU-1036,iPhone,iPhone 17 Pro,256GB,Titanium,Standard,1299
+SKU-1037,iPhone,iPhone 17 Pro,256GB,Titanium,eSIM-only,1299
+SKU-1038,iPhone,iPhone 17 Pro,256GB,Red,Standard,1299
+SKU-1039,iPhone,iPhone 17 Pro,256GB,Red,eSIM-only,1299
+SKU-1040,iPhone,iPhone 17 Pro,512GB,Black,Standard,1399
+SKU-1041,iPhone,iPhone 17 Pro,512GB,Black,eSIM-only,1399
+SKU-1042,iPhone,iPhone 17 Pro,512GB,Silver,Standard,1399
+SKU-1043,iPhone,iPhone 17 Pro,512GB,Silver,eSIM-only,1399
+SKU-1044,iPhone,iPhone 17 Pro,512GB,Blue,Standard,1399
+SKU-1045,iPhone,iPhone 17 Pro,512GB,Blue,eSIM-only,1399
+SKU-1046,iPhone,iPhone 17 Pro,512GB,Titanium,Standard,1399
+SKU-1047,iPhone,iPhone 17 Pro,512GB,Titanium,eSIM-only,1399
+SKU-1048,iPhone,iPhone 17 Pro,512GB,Red,Standard,1399
+SKU-1049,iPhone,iPhone 17 Pro,512GB,Red,eSIM-only,1399
+SKU-1050,iPhone,iPhone 17 Pro,1TB,Black,Standard,1499
+SKU-1051,iPhone,iPhone 17 Pro,1TB,Black,eSIM-only,1499
+SKU-1052,iPhone,iPhone 17 Pro,1TB,Silver,Standard,1499
+SKU-1053,iPhone,iPhone 17 Pro,1TB,Silver,eSIM-only,1499
+SKU-1054,iPhone,iPhone 17 Pro,1TB,Blue,Standard,1499
+SKU-1055,iPhone,iPhone 17 Pro,1TB,Blue,eSIM-only,1499
+SKU-1056,iPhone,iPhone 17 Pro,1TB,Titanium,Standard,1499
+SKU-1057,iPhone,iPhone 17 Pro,1TB,Titanium,eSIM-only,1499
+SKU-1058,iPhone,iPhone 17 Pro,1TB,Red,Standard,1499
+SKU-1059,iPhone,iPhone 17 Pro,1TB,Red,eSIM-only,1499
+SKU-1060,iPhone,iPhone 17 Pro Max,256GB,Black,Standard,1499
+SKU-1061,iPhone,iPhone 17 Pro Max,256GB,Black,eSIM-only,1499
+SKU-1062,iPhone,iPhone 17 Pro Max,256GB,Silver,Standard,1499
+SKU-1063,iPhone,iPhone 17 Pro Max,256GB,Silver,eSIM-only,1499
+SKU-1064,iPhone,iPhone 17 Pro Max,256GB,Blue,Standard,1499
+SKU-1065,iPhone,iPhone 17 Pro Max,256GB,Blue,eSIM-only,1499
+SKU-1066,iPhone,iPhone 17 Pro Max,256GB,Titanium,Standard,1499
+SKU-1067,iPhone,iPhone 17 Pro Max,256GB,Titanium,eSIM-only,1499
+SKU-1068,iPhone,iPhone 17 Pro Max,256GB,Red,Standard,1499
+SKU-1069,iPhone,iPhone 17 Pro Max,256GB,Red,eSIM-only,1499
+SKU-1070,iPhone,iPhone 17 Pro Max,512GB,Black,Standard,1599
+SKU-1071,iPhone,iPhone 17 Pro Max,512GB,Black,eSIM-only,1599
+SKU-1072,iPhone,iPhone 17 Pro Max,512GB,Silver,Standard,1599
+SKU-1073,iPhone,iPhone 17 Pro Max,512GB,Silver,eSIM-only,1599
+SKU-1074,iPhone,iPhone 17 Pro Max,512GB,Blue,Standard,1599
+SKU-1075,iPhone,iPhone 17 Pro Max,512GB,Blue,eSIM-only,1599
+SKU-1076,iPhone,iPhone 17 Pro Max,512GB,Titanium,Standard,1599
+SKU-1077,iPhone,iPhone 17 Pro Max,512GB,Titanium,eSIM-only,1599
+SKU-1078,iPhone,iPhone 17 Pro Max,512GB,Red,Standard,1599
+SKU-1079,iPhone,iPhone 17 Pro Max,512GB,Red,eSIM-only,1599
+SKU-1080,iPhone,iPhone 17 Pro Max,1TB,Black,Standard,1699
+SKU-1081,iPhone,iPhone 17 Pro Max,1TB,Black,eSIM-only,1699
+SKU-1082,iPhone,iPhone 17 Pro Max,1TB,Silver,Standard,1699
+SKU-1083,iPhone,iPhone 17 Pro Max,1TB,Silver,eSIM-only,1699
+SKU-1084,iPhone,iPhone 17 Pro Max,1TB,Blue,Standard,1699
+SKU-1085,iPhone,iPhone 17 Pro Max,1TB,Blue,eSIM-only,1699
+SKU-1086,iPhone,iPhone 17 Pro Max,1TB,Titanium,Standard,1699
+SKU-1087,iPhone,iPhone 17 Pro Max,1TB,Titanium,eSIM-only,1699
+SKU-1088,iPhone,iPhone 17 Pro Max,1TB,Red,Standard,1699
+SKU-1089,iPhone,iPhone 17 Pro Max,1TB,Red,eSIM-only,1699
+SKU-1090,iPhone,iPhone 17e,128GB,Black,Standard,699
+SKU-1091,iPhone,iPhone 17e,128GB,Black,eSIM-only,699
+SKU-1092,iPhone,iPhone 17e,128GB,Silver,Standard,699
+SKU-1093,iPhone,iPhone 17e,128GB,Silver,eSIM-only,699
+SKU-1094,iPhone,iPhone 17e,128GB,Blue,Standard,699
+SKU-1095,iPhone,iPhone 17e,128GB,Blue,eSIM-only,699
+SKU-1096,iPhone,iPhone 17e,128GB,Titanium,Standard,699
+SKU-1097,iPhone,iPhone 17e,128GB,Titanium,eSIM-only,699
+SKU-1098,iPhone,iPhone 17e,128GB,Red,Standard,699
+SKU-1099,iPhone,iPhone 17e,128GB,Red,eSIM-only,699
+SKU-1100,iPhone,iPhone 17e,256GB,Black,Standard,799
+SKU-1101,iPhone,iPhone 17e,256GB,Black,eSIM-only,799
+SKU-1102,iPhone,iPhone 17e,256GB,Silver,Standard,799
+SKU-1103,iPhone,iPhone 17e,256GB,Silver,eSIM-only,799
+SKU-1104,iPhone,iPhone 17e,256GB,Blue,Standard,799
+SKU-1105,iPhone,iPhone 17e,256GB,Blue,eSIM-only,799
+SKU-1106,iPhone,iPhone 17e,256GB,Titanium,Standard,799
+SKU-1107,iPhone,iPhone 17e,256GB,Titanium,eSIM-only,799
+SKU-1108,iPhone,iPhone 17e,256GB,Red,Standard,799
+SKU-1109,iPhone,iPhone 17e,256GB,Red,eSIM-only,799
+SKU-1110,Mac Laptop,"MacBook Air (M5, 13-inch)",256GB,Space Grey,8GB RAM,1099
+SKU-1111,Mac Laptop,"MacBook Air (M5, 13-inch)",512GB,Space Grey,8GB RAM,1299
+SKU-1112,Mac Laptop,"MacBook Air (M5, 13-inch)",1TB,Space Grey,8GB RAM,1499
+SKU-1113,Mac Laptop,"MacBook Air (M5, 13-inch)",2TB,Space Grey,8GB RAM,1699
+SKU-1114,Mac Laptop,"MacBook Air (M5, 13-inch)",256GB,Space Grey,16GB RAM,1299
+SKU-1115,Mac Laptop,"MacBook Air (M5, 13-inch)",512GB,Space Grey,16GB RAM,1499
+SKU-1116,Mac Laptop,"MacBook Air (M5, 13-inch)",1TB,Space Grey,16GB RAM,1699
+SKU-1117,Mac Laptop,"MacBook Air (M5, 13-inch)",2TB,Space Grey,16GB RAM,1899
+SKU-1118,Mac Laptop,"MacBook Air (M5, 13-inch)",256GB,Space Grey,32GB RAM,1499
+SKU-1119,Mac Laptop,"MacBook Air (M5, 13-inch)",512GB,Space Grey,32GB RAM,1699
+SKU-1120,Mac Laptop,"MacBook Air (M5, 13-inch)",1TB,Space Grey,32GB RAM,1899
+SKU-1121,Mac Laptop,"MacBook Air (M5, 13-inch)",2TB,Space Grey,32GB RAM,2099
+SKU-1122,Mac Laptop,"MacBook Air (M5, 15-inch)",256GB,Space Grey,8GB RAM,1299
+SKU-1123,Mac Laptop,"MacBook Air (M5, 15-inch)",512GB,Space Grey,8GB RAM,1499
+SKU-1124,Mac Laptop,"MacBook Air (M5, 15-inch)",1TB,Space Grey,8GB RAM,1699
+SKU-1125,Mac Laptop,"MacBook Air (M5, 15-inch)",2TB,Space Grey,8GB RAM,1899
+SKU-1126,Mac Laptop,"MacBook Air (M5, 15-inch)",256GB,Space Grey,16GB RAM,1499
+SKU-1127,Mac Laptop,"MacBook Air (M5, 15-inch)",512GB,Space Grey,16GB RAM,1699
+SKU-1128,Mac Laptop,"MacBook Air (M5, 15-inch)",1TB,Space Grey,16GB RAM,1899
+SKU-1129,Mac Laptop,"MacBook Air (M5, 15-inch)",2TB,Space Grey,16GB RAM,2099
+SKU-1130,Mac Laptop,"MacBook Air (M5, 15-inch)",256GB,Space Grey,32GB RAM,1699
+SKU-1131,Mac Laptop,"MacBook Air (M5, 15-inch)",512GB,Space Grey,32GB RAM,1899
+SKU-1132,Mac Laptop,"MacBook Air (M5, 15-inch)",1TB,Space Grey,32GB RAM,2099
+SKU-1133,Mac Laptop,"MacBook Air (M5, 15-inch)",2TB,Space Grey,32GB RAM,2299
+SKU-1134,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",512GB,Space Grey,16GB RAM,2399
+SKU-1135,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",1TB,Space Grey,16GB RAM,2599
+SKU-1136,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",2TB,Space Grey,16GB RAM,2799
+SKU-1137,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",4TB,Space Grey,16GB RAM,3199
+SKU-1138,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",512GB,Space Grey,32GB RAM,2599
+SKU-1139,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",1TB,Space Grey,32GB RAM,2799
+SKU-1140,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",2TB,Space Grey,32GB RAM,2999
+SKU-1141,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",4TB,Space Grey,32GB RAM,3399
+SKU-1142,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",512GB,Space Grey,64GB RAM,2999
+SKU-1143,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",1TB,Space Grey,64GB RAM,3199
+SKU-1144,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",2TB,Space Grey,64GB RAM,3399
+SKU-1145,Mac Laptop,"MacBook Pro (M5 Pro, 14-inch)",4TB,Space Grey,64GB RAM,3799
+SKU-1146,Mac Laptop,"MacBook Pro (M5 Max, 16-inch)",1TB,Space Grey,32GB RAM,4299
+SKU-1147,Mac Laptop,"MacBook Pro (M5 Max, 16-inch)",2TB,Space Grey,32GB RAM,4499
+SKU-1148,Mac Laptop,"MacBook Pro (M5 Max, 16-inch)",4TB,Space Grey,32GB RAM,4899
+SKU-1149,Mac Laptop,"MacBook Pro (M5 Max, 16-inch)",1TB,Space Grey,64GB RAM,4699
+SKU-1150,Mac Laptop,"MacBook Pro (M5 Max, 16-inch)",2TB,Space Grey,64GB RAM,4899
+SKU-1151,Mac Laptop,"MacBook Pro (M5 Max, 16-inch)",4TB,Space Grey,64GB RAM,5299
+SKU-1152,Mac Laptop,MacBook Neo,256GB,Space Grey,8GB RAM,799
+SKU-1153,Mac Laptop,MacBook Neo,512GB,Space Grey,8GB RAM,999
+SKU-1154,Mac Laptop,MacBook Neo,256GB,Space Grey,16GB RAM,999
+SKU-1155,Mac Laptop,MacBook Neo,512GB,Space Grey,16GB RAM,1199
+SKU-1156,Mac Desktop,Mac Mini (M5),256GB,Silver,M5 / 16GB RAM,599
+SKU-1157,Mac Desktop,Mac Mini (M5),512GB,Silver,M5 / 32GB RAM,799
+SKU-1158,Mac Desktop,Mac Mini (M5),512GB,Silver,M5 Pro / 32GB RAM,1099
+SKU-1159,Mac Desktop,Mac Studio (M5 Max),512GB,Silver,M5 Max / 32GB RAM,1999
+SKU-1160,Mac Desktop,Mac Studio (M5 Max),1TB,Silver,M5 Max / 64GB RAM,2599
+SKU-1161,Mac Desktop,Mac Studio (M5 Ultra),1TB,Silver,M5 Ultra / 64GB RAM,3999
+SKU-1162,Mac Desktop,Mac Studio (M5 Ultra),2TB,Silver,M5 Ultra / 128GB RAM,5999
+SKU-1163,Mac Desktop,Mac Pro,4TB,Silver,M5 Ultra / 192GB RAM,6999
+SKU-1164,Mac Desktop,Mac Pro,8TB,Silver,M5 Ultra / 192GB RAM,9999
+SKU-1165,iPad,iPad (10th Gen),64GB,Space Grey,WiFi,349
+SKU-1166,iPad,iPad (10th Gen),64GB,Space Grey,WiFi + Cellular,499
+SKU-1167,iPad,iPad (10th Gen),64GB,Silver,WiFi,349
+SKU-1168,iPad,iPad (10th Gen),64GB,Silver,WiFi + Cellular,499
+SKU-1169,iPad,iPad (10th Gen),64GB,Purple,WiFi,349
+SKU-1170,iPad,iPad (10th Gen),64GB,Purple,WiFi + Cellular,499
+SKU-1171,iPad,iPad (10th Gen),64GB,Blue,WiFi,349
+SKU-1172,iPad,iPad (10th Gen),64GB,Blue,WiFi + Cellular,499
+SKU-1173,iPad,iPad (10th Gen),256GB,Space Grey,WiFi,499
+SKU-1174,iPad,iPad (10th Gen),256GB,Space Grey,WiFi + Cellular,649
+SKU-1175,iPad,iPad (10th Gen),256GB,Silver,WiFi,499
+SKU-1176,iPad,iPad (10th Gen),256GB,Silver,WiFi + Cellular,649
+SKU-1177,iPad,iPad (10th Gen),256GB,Purple,WiFi,499
+SKU-1178,iPad,iPad (10th Gen),256GB,Purple,WiFi + Cellular,649
+SKU-1179,iPad,iPad (10th Gen),256GB,Blue,WiFi,499
+SKU-1180,iPad,iPad (10th Gen),256GB,Blue,WiFi + Cellular,649
+SKU-1181,iPad,iPad (11th Gen),128GB,Space Grey,WiFi,499
+SKU-1182,iPad,iPad (11th Gen),128GB,Space Grey,WiFi + Cellular,649
+SKU-1183,iPad,iPad (11th Gen),128GB,Silver,WiFi,499
+SKU-1184,iPad,iPad (11th Gen),128GB,Silver,WiFi + Cellular,649
+SKU-1185,iPad,iPad (11th Gen),128GB,Purple,WiFi,499
+SKU-1186,iPad,iPad (11th Gen),128GB,Purple,WiFi + Cellular,649
+SKU-1187,iPad,iPad (11th Gen),128GB,Blue,WiFi,499
+SKU-1188,iPad,iPad (11th Gen),128GB,Blue,WiFi + Cellular,649
+SKU-1189,iPad,iPad (11th Gen),256GB,Space Grey,WiFi,599
+SKU-1190,iPad,iPad (11th Gen),256GB,Space Grey,WiFi + Cellular,749
+SKU-1191,iPad,iPad (11th Gen),256GB,Silver,WiFi,599
+SKU-1192,iPad,iPad (11th Gen),256GB,Silver,WiFi + Cellular,749
+SKU-1193,iPad,iPad (11th Gen),256GB,Purple,WiFi,599
+SKU-1194,iPad,iPad (11th Gen),256GB,Purple,WiFi + Cellular,749
+SKU-1195,iPad,iPad (11th Gen),256GB,Blue,WiFi,599
+SKU-1196,iPad,iPad (11th Gen),256GB,Blue,WiFi + Cellular,749
+SKU-1197,iPad,iPad (11th Gen),512GB,Space Grey,WiFi,699
+SKU-1198,iPad,iPad (11th Gen),512GB,Space Grey,WiFi + Cellular,849
+SKU-1199,iPad,iPad (11th Gen),512GB,Silver,WiFi,699
+SKU-1200,iPad,iPad (11th Gen),512GB,Silver,WiFi + Cellular,849
+SKU-1201,iPad,iPad (11th Gen),512GB,Purple,WiFi,699
+SKU-1202,iPad,iPad (11th Gen),512GB,Purple,WiFi + Cellular,849
+SKU-1203,iPad,iPad (11th Gen),512GB,Blue,WiFi,699
+SKU-1204,iPad,iPad (11th Gen),512GB,Blue,WiFi + Cellular,849
+SKU-1205,iPad,iPad Mini,128GB,Space Grey,WiFi,549
+SKU-1206,iPad,iPad Mini,128GB,Space Grey,WiFi + Cellular,699
+SKU-1207,iPad,iPad Mini,128GB,Silver,WiFi,549
+SKU-1208,iPad,iPad Mini,128GB,Silver,WiFi + Cellular,699
+SKU-1209,iPad,iPad Mini,128GB,Purple,WiFi,549
+SKU-1210,iPad,iPad Mini,128GB,Purple,WiFi + Cellular,699
+SKU-1211,iPad,iPad Mini,128GB,Blue,WiFi,549
+SKU-1212,iPad,iPad Mini,128GB,Blue,WiFi + Cellular,699
+SKU-1213,iPad,iPad Mini,256GB,Space Grey,WiFi,649
+SKU-1214,iPad,iPad Mini,256GB,Space Grey,WiFi + Cellular,799
+SKU-1215,iPad,iPad Mini,256GB,Silver,WiFi,649
+SKU-1216,iPad,iPad Mini,256GB,Silver,WiFi + Cellular,799
+SKU-1217,iPad,iPad Mini,256GB,Purple,WiFi,649
+SKU-1218,iPad,iPad Mini,256GB,Purple,WiFi + Cellular,799
+SKU-1219,iPad,iPad Mini,256GB,Blue,WiFi,649
+SKU-1220,iPad,iPad Mini,256GB,Blue,WiFi + Cellular,799
+SKU-1221,iPad,iPad Mini,512GB,Space Grey,WiFi,749
+SKU-1222,iPad,iPad Mini,512GB,Space Grey,WiFi + Cellular,899
+SKU-1223,iPad,iPad Mini,512GB,Silver,WiFi,749
+SKU-1224,iPad,iPad Mini,512GB,Silver,WiFi + Cellular,899
+SKU-1225,iPad,iPad Mini,512GB,Purple,WiFi,749
+SKU-1226,iPad,iPad Mini,512GB,Purple,WiFi + Cellular,899
+SKU-1227,iPad,iPad Mini,512GB,Blue,WiFi,749
+SKU-1228,iPad,iPad Mini,512GB,Blue,WiFi + Cellular,899
+SKU-1229,iPad,iPad Air (M4),128GB,Space Grey,WiFi,649
+SKU-1230,iPad,iPad Air (M4),128GB,Space Grey,WiFi + Cellular,799
+SKU-1231,iPad,iPad Air (M4),128GB,Silver,WiFi,649
+SKU-1232,iPad,iPad Air (M4),128GB,Silver,WiFi + Cellular,799
+SKU-1233,iPad,iPad Air (M4),128GB,Purple,WiFi,649
+SKU-1234,iPad,iPad Air (M4),128GB,Purple,WiFi + Cellular,799
+SKU-1235,iPad,iPad Air (M4),128GB,Blue,WiFi,649
+SKU-1236,iPad,iPad Air (M4),128GB,Blue,WiFi + Cellular,799
+SKU-1237,iPad,iPad Air (M4),256GB,Space Grey,WiFi,749
+SKU-1238,iPad,iPad Air (M4),256GB,Space Grey,WiFi + Cellular,899
+SKU-1239,iPad,iPad Air (M4),256GB,Silver,WiFi,749
+SKU-1240,iPad,iPad Air (M4),256GB,Silver,WiFi + Cellular,899
+SKU-1241,iPad,iPad Air (M4),256GB,Purple,WiFi,749
+SKU-1242,iPad,iPad Air (M4),256GB,Purple,WiFi + Cellular,899
+SKU-1243,iPad,iPad Air (M4),256GB,Blue,WiFi,749
+SKU-1244,iPad,iPad Air (M4),256GB,Blue,WiFi + Cellular,899
+SKU-1245,iPad,iPad Air (M4),512GB,Space Grey,WiFi,849
+SKU-1246,iPad,iPad Air (M4),512GB,Space Grey,WiFi + Cellular,999
+SKU-1247,iPad,iPad Air (M4),512GB,Silver,WiFi,849
+SKU-1248,iPad,iPad Air (M4),512GB,Silver,WiFi + Cellular,999
+SKU-1249,iPad,iPad Air (M4),512GB,Purple,WiFi,849
+SKU-1250,iPad,iPad Air (M4),512GB,Purple,WiFi + Cellular,999
+SKU-1251,iPad,iPad Air (M4),512GB,Blue,WiFi,849
+SKU-1252,iPad,iPad Air (M4),512GB,Blue,WiFi + Cellular,999
+SKU-1253,iPad,iPad Air (M4),1TB,Space Grey,WiFi,949
+SKU-1254,iPad,iPad Air (M4),1TB,Space Grey,WiFi + Cellular,1099
+SKU-1255,iPad,iPad Air (M4),1TB,Silver,WiFi,949
+SKU-1256,iPad,iPad Air (M4),1TB,Silver,WiFi + Cellular,1099
+SKU-1257,iPad,iPad Air (M4),1TB,Purple,WiFi,949
+SKU-1258,iPad,iPad Air (M4),1TB,Purple,WiFi + Cellular,1099
+SKU-1259,iPad,iPad Air (M4),1TB,Blue,WiFi,949
+SKU-1260,iPad,iPad Air (M4),1TB,Blue,WiFi + Cellular,1099
+SKU-1261,iPad,iPad Pro 11-inch (M4),256GB,Space Grey,WiFi,1149
+SKU-1262,iPad,iPad Pro 11-inch (M4),256GB,Space Grey,WiFi + Cellular,1299
+SKU-1263,iPad,iPad Pro 11-inch (M4),256GB,Silver,WiFi,1149
+SKU-1264,iPad,iPad Pro 11-inch (M4),256GB,Silver,WiFi + Cellular,1299
+SKU-1265,iPad,iPad Pro 11-inch (M4),256GB,Purple,WiFi,1149
+SKU-1266,iPad,iPad Pro 11-inch (M4),256GB,Purple,WiFi + Cellular,1299
+SKU-1267,iPad,iPad Pro 11-inch (M4),256GB,Blue,WiFi,1149
+SKU-1268,iPad,iPad Pro 11-inch (M4),256GB,Blue,WiFi + Cellular,1299
+SKU-1269,iPad,iPad Pro 11-inch (M4),512GB,Space Grey,WiFi,1249
+SKU-1270,iPad,iPad Pro 11-inch (M4),512GB,Space Grey,WiFi + Cellular,1399
+SKU-1271,iPad,iPad Pro 11-inch (M4),512GB,Silver,WiFi,1249
+SKU-1272,iPad,iPad Pro 11-inch (M4),512GB,Silver,WiFi + Cellular,1399
+SKU-1273,iPad,iPad Pro 11-inch (M4),512GB,Purple,WiFi,1249
+SKU-1274,iPad,iPad Pro 11-inch (M4),512GB,Purple,WiFi + Cellular,1399
+SKU-1275,iPad,iPad Pro 11-inch (M4),512GB,Blue,WiFi,1249
+SKU-1276,iPad,iPad Pro 11-inch (M4),512GB,Blue,WiFi + Cellular,1399
+SKU-1277,iPad,iPad Pro 11-inch (M4),1TB,Space Grey,WiFi,1349
+SKU-1278,iPad,iPad Pro 11-inch (M4),1TB,Space Grey,WiFi + Cellular,1499
+SKU-1279,iPad,iPad Pro 11-inch (M4),1TB,Silver,WiFi,1349
+SKU-1280,iPad,iPad Pro 11-inch (M4),1TB,Silver,WiFi + Cellular,1499
+SKU-1281,iPad,iPad Pro 11-inch (M4),1TB,Purple,WiFi,1349
+SKU-1282,iPad,iPad Pro 11-inch (M4),1TB,Purple,WiFi + Cellular,1499
+SKU-1283,iPad,iPad Pro 11-inch (M4),1TB,Blue,WiFi,1349
+SKU-1284,iPad,iPad Pro 11-inch (M4),1TB,Blue,WiFi + Cellular,1499
+SKU-1285,iPad,iPad Pro 11-inch (M4),2TB,Space Grey,WiFi,1499
+SKU-1286,iPad,iPad Pro 11-inch (M4),2TB,Space Grey,WiFi + Cellular,1649
+SKU-1287,iPad,iPad Pro 11-inch (M4),2TB,Silver,WiFi,1499
+SKU-1288,iPad,iPad Pro 11-inch (M4),2TB,Silver,WiFi + Cellular,1649
+SKU-1289,iPad,iPad Pro 11-inch (M4),2TB,Purple,WiFi,1499
+SKU-1290,iPad,iPad Pro 11-inch (M4),2TB,Purple,WiFi + Cellular,1649
+SKU-1291,iPad,iPad Pro 11-inch (M4),2TB,Blue,WiFi,1499
+SKU-1292,iPad,iPad Pro 11-inch (M4),2TB,Blue,WiFi + Cellular,1649
+SKU-1293,iPad,iPad Pro 13-inch (M4),256GB,Space Grey,WiFi,1449
+SKU-1294,iPad,iPad Pro 13-inch (M4),256GB,Space Grey,WiFi + Cellular,1599
+SKU-1295,iPad,iPad Pro 13-inch (M4),256GB,Silver,WiFi,1449
+SKU-1296,iPad,iPad Pro 13-inch (M4),256GB,Silver,WiFi + Cellular,1599
+SKU-1297,iPad,iPad Pro 13-inch (M4),256GB,Purple,WiFi,1449
+SKU-1298,iPad,iPad Pro 13-inch (M4),256GB,Purple,WiFi + Cellular,1599
+SKU-1299,iPad,iPad Pro 13-inch (M4),256GB,Blue,WiFi,1449
+SKU-1300,iPad,iPad Pro 13-inch (M4),256GB,Blue,WiFi + Cellular,1599
+SKU-1301,iPad,iPad Pro 13-inch (M4),512GB,Space Grey,WiFi,1549
+SKU-1302,iPad,iPad Pro 13-inch (M4),512GB,Space Grey,WiFi + Cellular,1699
+SKU-1303,iPad,iPad Pro 13-inch (M4),512GB,Silver,WiFi,1549
+SKU-1304,iPad,iPad Pro 13-inch (M4),512GB,Silver,WiFi + Cellular,1699
+SKU-1305,iPad,iPad Pro 13-inch (M4),512GB,Purple,WiFi,1549
+SKU-1306,iPad,iPad Pro 13-inch (M4),512GB,Purple,WiFi + Cellular,1699
+SKU-1307,iPad,iPad Pro 13-inch (M4),512GB,Blue,WiFi,1549
+SKU-1308,iPad,iPad Pro 13-inch (M4),512GB,Blue,WiFi + Cellular,1699
+SKU-1309,iPad,iPad Pro 13-inch (M4),1TB,Space Grey,WiFi,1649
+SKU-1310,iPad,iPad Pro 13-inch (M4),1TB,Space Grey,WiFi + Cellular,1799
+SKU-1311,iPad,iPad Pro 13-inch (M4),1TB,Silver,WiFi,1649
+SKU-1312,iPad,iPad Pro 13-inch (M4),1TB,Silver,WiFi + Cellular,1799
+SKU-1313,iPad,iPad Pro 13-inch (M4),1TB,Purple,WiFi,1649
+SKU-1314,iPad,iPad Pro 13-inch (M4),1TB,Purple,WiFi + Cellular,1799
+SKU-1315,iPad,iPad Pro 13-inch (M4),1TB,Blue,WiFi,1649
+SKU-1316,iPad,iPad Pro 13-inch (M4),1TB,Blue,WiFi + Cellular,1799
+SKU-1317,iPad,iPad Pro 13-inch (M4),2TB,Space Grey,WiFi,1799
+SKU-1318,iPad,iPad Pro 13-inch (M4),2TB,Space Grey,WiFi + Cellular,1949
+SKU-1319,iPad,iPad Pro 13-inch (M4),2TB,Silver,WiFi,1799
+SKU-1320,iPad,iPad Pro 13-inch (M4),2TB,Silver,WiFi + Cellular,1949
+SKU-1321,iPad,iPad Pro 13-inch (M4),2TB,Purple,WiFi,1799
+SKU-1322,iPad,iPad Pro 13-inch (M4),2TB,Purple,WiFi + Cellular,1949
+SKU-1323,iPad,iPad Pro 13-inch (M4),2TB,Blue,WiFi,1799
+SKU-1324,iPad,iPad Pro 13-inch (M4),2TB,Blue,WiFi + Cellular,1949
+SKU-1325,Apple Watch,Apple Watch Series 11,N/A,Aluminum,41mm / Sport Band,399
+SKU-1326,Apple Watch,Apple Watch Series 11,N/A,Aluminum,41mm / Milanese Band,449
+SKU-1327,Apple Watch,Apple Watch Series 11,N/A,Aluminum,41mm / Leather Band,449
+SKU-1328,Apple Watch,Apple Watch Series 11,N/A,Aluminum,41mm / Trail Band,429
+SKU-1329,Apple Watch,Apple Watch Series 11,N/A,Stainless Steel,41mm / Sport Band,599
+SKU-1330,Apple Watch,Apple Watch Series 11,N/A,Stainless Steel,41mm / Milanese Band,649
+SKU-1331,Apple Watch,Apple Watch Series 11,N/A,Stainless Steel,41mm / Leather Band,649
+SKU-1332,Apple Watch,Apple Watch Series 11,N/A,Stainless Steel,41mm / Trail Band,629
+SKU-1333,Apple Watch,Apple Watch Series 11,N/A,Aluminum,45mm / Sport Band,399
+SKU-1334,Apple Watch,Apple Watch Series 11,N/A,Aluminum,45mm / Milanese Band,449
+SKU-1335,Apple Watch,Apple Watch Series 11,N/A,Aluminum,45mm / Leather Band,449
+SKU-1336,Apple Watch,Apple Watch Series 11,N/A,Aluminum,45mm / Trail Band,429
+SKU-1337,Apple Watch,Apple Watch Series 11,N/A,Stainless Steel,45mm / Sport Band,599
+SKU-1338,Apple Watch,Apple Watch Series 11,N/A,Stainless Steel,45mm / Milanese Band,649
+SKU-1339,Apple Watch,Apple Watch Series 11,N/A,Stainless Steel,45mm / Leather Band,649
+SKU-1340,Apple Watch,Apple Watch Series 11,N/A,Stainless Steel,45mm / Trail Band,629
+SKU-1341,Apple Watch,Apple Watch SE (3rd Gen),N/A,Aluminum,40mm / Sport Band,249
+SKU-1342,Apple Watch,Apple Watch SE (3rd Gen),N/A,Aluminum,40mm / Milanese Band,299
+SKU-1343,Apple Watch,Apple Watch SE (3rd Gen),N/A,Aluminum,40mm / Leather Band,299
+SKU-1344,Apple Watch,Apple Watch SE (3rd Gen),N/A,Aluminum,40mm / Trail Band,279
+SKU-1345,Apple Watch,Apple Watch SE (3rd Gen),N/A,Aluminum,44mm / Sport Band,249
+SKU-1346,Apple Watch,Apple Watch SE (3rd Gen),N/A,Aluminum,44mm / Milanese Band,299
+SKU-1347,Apple Watch,Apple Watch SE (3rd Gen),N/A,Aluminum,44mm / Leather Band,299
+SKU-1348,Apple Watch,Apple Watch SE (3rd Gen),N/A,Aluminum,44mm / Trail Band,279
+SKU-1349,Apple Watch,Apple Watch Ultra 3,N/A,Titanium,49mm / Sport Band,799
+SKU-1350,Apple Watch,Apple Watch Ultra 3,N/A,Titanium,49mm / Milanese Band,849
+SKU-1351,Apple Watch,Apple Watch Ultra 3,N/A,Titanium,49mm / Leather Band,849
+SKU-1352,Apple Watch,Apple Watch Ultra 3,N/A,Titanium,49mm / Trail Band,829
+SKU-1353,Audio,AirPods (4th Gen),N/A,White,Standard Case,129
+SKU-1354,Audio,AirPods (4th Gen),N/A,White,Wireless Charging Case,179
+SKU-1355,Audio,AirPods Pro (3rd Gen),N/A,White,USB-C Case,249
+SKU-1356,Audio,AirPods Pro (3rd Gen),N/A,White,Wireless Charging Case,279
+SKU-1357,Audio,AirPods Max 2,N/A,Space Grey,Space Grey,549
+SKU-1358,Audio,AirPods Max 2,N/A,Silver,Silver,549
+SKU-1359,Audio,AirPods Max 2,N/A,Blue,Blue,549
+SKU-1360,Audio,AirPods Max 2,N/A,Green,Green,549
